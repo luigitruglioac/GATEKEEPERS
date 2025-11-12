@@ -6,8 +6,8 @@ O programa é um gerenciador de senhas simples. O programa conta um CRUD além d
 
 ## CONTRIBUINTES:
 
-[@Albiere123](https://github.com/Albiere123)\
+- [@Albiere123](https://github.com/Albiere123)
 
-[@ahelenab](https://github.com/ahelenab)\
+- [@ahelenab](https://github.com/ahelenab)
 
-[@fsantosn](https://github.com/fsantosn)\
+- [@fsantosn](https://github.com/fsantosn)
